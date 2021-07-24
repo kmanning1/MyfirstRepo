@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Animation</title>
+  <script src="https://bestanimations.com/Nature/summer/summer-nature-animated-gif-27.gif"></script>
+  <script type="text/text/javascript">
+       $(document).ready(function () {
+         function rgt() {
+           $('#sldr').animate({ left: "150"}, 1000, hider);
+         }
+         rgt();
+         function hider() {
+           $('#sldr').css('left', '0px');
+           rgt();
+        }
+      });
+   </script>
+  </head>
+  <body>
+    <p>This is my happy place</p>
+    <form id="form1"  runat="server">
+      <div>
+        <img id="sldr" src="summer-nature-animated-gif-27.gif" style="postition:absolute" />
+      </div>
+    </form>
+  </body>
+  </html>
