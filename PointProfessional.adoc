@@ -21,7 +21,7 @@ IOS and Android
 ## What programming languages are being used?
 HTML, CSS, Javascript, JQruery, SQL
 
-[grid="rows" , format="csv"]
+[grid="rows",format="csv"]
 [options="header",cols=^,<,<s,<,>m"]
 |==================================================
 App,Location,Environment,URL,Status,Version
