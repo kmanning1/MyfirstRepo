@@ -1,4 +1,5 @@
 # Point Professional App
+
 :POINTPROFESSIONAL_APP: Point Professional
 :POINTPROFESSIONAL_LOC: Wood St
 :POINTPROFESSIONAL_ENV: Staging
@@ -22,7 +23,7 @@ IOS and Android
 HTML, CSS, Javascript, JQruery, SQL
 
 [grid="rows",format="csv"]
-[options="header",cols=^,<,<s,<,>m"]
+[options="header",cols="^,<,<s,<,>m"]
 |==================================================
 App,Location,Environment,URL,Status,Version
 '{POINTPROFESSIONAL_APP}','{POINTPROFESSIONAL_LOC}','{POINTPROFESSIONAL_ENV}','{POINTPROFESSIONAL_URL}','{POINTPROFESSIONAL_STATUS}','{POINTPROFESSIONAL_VERSION}'
