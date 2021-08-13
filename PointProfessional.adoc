@@ -8,7 +8,7 @@
 :POINTPROFESSIONAL_VERSION: 1.0.1
 :Imagesdir: Images
 
-
+Image::Professional attire.jpg[alt=Attire,width=250px][orientation=Landscape]
 
 ## What is the Point Professional Website
 The Point Professional Website is available to students seeking a new profession, and needing the attire for interviews. Point Professional provides
@@ -31,4 +31,4 @@ App,Location,Environment,URL,Status,Version
 |=======================================================================
 
 
-Image::Professional attire.jpg[alt=Attire,width=250px][orientation=Landscape]
+
