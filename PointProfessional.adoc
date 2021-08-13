@@ -31,4 +31,4 @@ App,Location,Environment,URL,Status,Version
 |=======================================================================
 
 
-Images::Professional attire.jpg[alt=Attire,width=250px][orientation=Landscape]
+Image::Professional attire.jpg[alt=Attire,width=250px][orientation=Landscape]
