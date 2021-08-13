@@ -9,8 +9,8 @@
 :Imagesdir: Images
 
 
-
-
++
+Images::Professional attire.jpg[alt=Attire,width=250px][orientation=Landscape]
 ## What is the Point Professional Website
 The Point Professional Website is available to students seeking a new profession, and needing the attire for interviews. Point Professional provides
 professional clothing for rental to the students at low prices
@@ -25,7 +25,7 @@ HTML, CSS, Javascript, JQruery, SQL
 ## Application Environment Details
 
 [grid="rows",format="csv"]
-[options="header",cols="^,<,<s,<,>m"]
+
 |==================================================
 App,Location,Environment,URL,Status,Version
 '{POINTPROFESSIONAL_APP}','{POINTPROFESSIONAL_LOC}','{POINTPROFESSIONAL_ENV}','{POINTPROFESSIONAL_URL}','{POINTPROFESSIONAL_STATUS}','{POINTPROFESSIONAL_VERSION}'
