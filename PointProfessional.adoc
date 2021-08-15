@@ -28,7 +28,7 @@ HTML, CSS, Javascript, JQruery, SQL
 |==================================================
 App,Location,Environment,URL,Status,Version
 '{POINTPROFESSIONAL_APP}','{POINTPROFESSIONAL_LOC}','{POINTPROFESSIONAL_ENV}','{POINTPROFESSIONAL_URL}','{POINTPROFESSIONAL_STATUS}','{POINTPROFESSIONAL_VERSION}'
-|==================================
+
 ## Diagram of workflow
 image::Workflow.png[alt=workflow,width=250px][orientation=portrait]
 
