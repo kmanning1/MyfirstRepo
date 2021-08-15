@@ -6,7 +6,7 @@
 :POINTPROFESSIONAL_URL: https://pointprofessional.org
 :POINTPROFESSIONAL_STATUS : Available
 :POINTPROFESSIONAL_VERSION: 1.0.1
-:imagesdir: images
+:MyfirstRepodir: images
 
 image::Professional attire - copy.jpg[alt=attire,width=250px][orientation=portrait]
 
