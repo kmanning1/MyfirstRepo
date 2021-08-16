@@ -1,0 +1,31 @@
+[.lead]
+My Website
+
+
+
+[#img-computer]
+.computer
+image::computerpic.jpg[Attire,300,200]
+
+
+
+## Why do I have a website?
+I have a website so other students or prospective employers can have a better Idea of who I am. I am a mother, grandmother, paraprofessional,
+and I am hoping to find my place in the technology field soon.
+
+## Application Environment Details
+[horizontal]
+Website:: kmanning.it.pointpark.edu/portfolio.html
+Location:: Online
+Environment:: Staging
+
+
+
+## What programming languages are being used?
+HTML, CSS, Javascript, JQruery, SQL
+
+
+## Diagram of workflow for Implementation of website
+[#img-diagram]
+.Workflow
+image::Workflow.png[workflow,500,500]
