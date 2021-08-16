@@ -1,7 +1,7 @@
 # Point Professional App
 
 :POINTPROFESSIONAL_APP: Point Professional
-:POINTPROFESSIONAL_LOC: Wood St
+:POINTPROFESSIONAL_LOC: Point Park -next to Admissions
 :POINTPROFESSIONAL_ENV: Staging
 :POINTPROFESSIONAL_URL: https://pointprofessional.org
 :POINTPROFESSIONAL_STATUS : Available
@@ -9,7 +9,9 @@
 :imagesdir: images
 
 
-image::'Professional attire - Copy.jpg'[alt=attire,width=250px][orientation=portrait]
+[#image-professional attire]
+.Professional Attire
+image::Professional attire -Copy.jpg[Attire,300,200]
 
 
 
