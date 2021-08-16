@@ -25,7 +25,7 @@ HTML, CSS, Javascript, JQruery, SQL
 
 
 
-
+## Diagram of workflow for Implmentation of website
 [#img-diagram]
 .Workflow
 image::Workflow.png[workflow,500,300]
