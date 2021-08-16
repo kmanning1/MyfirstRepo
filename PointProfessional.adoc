@@ -13,13 +13,18 @@ image::Professional attire - Copy.jpg[Attire,300,200]
 The Point Professional Website is available to students seeking a new profession, and needing the attire for interviews. Point Professional provides
 professional clothing for rental to the students at low prices
 
-
+## Application Environment Details
+[horizontal]
+Website:: Point Professional
+Location:: Online
+Environment:: Staging
+PickupLocation:: Point Park University
 
 
 ## What programming languages are being used?
 HTML, CSS, Javascript, JQruery, SQL
 
-## Application Environment Details
+
 
 
 
@@ -28,7 +33,7 @@ HTML, CSS, Javascript, JQruery, SQL
 ## Diagram of workflow for Implmentation of website
 [#img-diagram]
 .Workflow
-image::Workflow.png[workflow,500,300]
+image::Workflow.png[workflow,500,500]
 
 
 
