@@ -9,9 +9,9 @@
 :imagesdir: images
 
 
-[#image-professional attire]
+[#img-attire]
 .Professional Attire
-image::Professional attire -Copy.jpg[Attire,300,200]
+image::Professional attire - Copy.jpg[Attire,300,200]
 
 
 
