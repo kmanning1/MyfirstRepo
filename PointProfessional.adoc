@@ -34,9 +34,11 @@ App,Location,Environment,URL,Status,Version
 '{POINTPROFESSIONAL_APP}','{POINTPROFESSIONAL_LOC}','{POINTPROFESSIONAL_ENV}','{POINTPROFESSIONAL_URL}','{POINTPROFESSIONAL_STATUS}','{POINTPROFESSIONAL_VERSION}'
 |==============================
 
-## Workflow strategy
+[#img-diagram]
+.Workflow
+image::Workflow.png[workflow,500,300]
 
-img::Workflow.png[alt=diagram,width=500px][orientation=portrait
+
 
 
 
