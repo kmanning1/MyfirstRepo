@@ -5,8 +5,7 @@
 :POINTPROFESSIONAL_ENV: Staging
 :POINTPROFESSIONAL_URL: https://pointprofessional.org
 :POINTPROFESSIONAL_STATUS : Available
-:POINTPROFESSIONAL_VERSION: 1.0.1
-:imagesdir: images
+
 
 
 [#img-attire]
