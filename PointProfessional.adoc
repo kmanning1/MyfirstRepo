@@ -1,10 +1,5 @@
-# Point Professional App
-
-:POINTPROFESSIONAL_APP: Point Professional
-:POINTPROFESSIONAL_LOC: Point Park -next to Admissions
-:POINTPROFESSIONAL_ENV: Staging
-:POINTPROFESSIONAL_URL: https://pointprofessional.org
-:POINTPROFESSIONAL_STATUS : Available
+[.lead]
+The Point Professional Website
 
 
 
@@ -14,24 +9,21 @@ image::Professional attire - Copy.jpg[Attire,300,200]
 
 
 
-## What is the Point Professional Website
+## Why have the Point Professional Website?
 The Point Professional Website is available to students seeking a new profession, and needing the attire for interviews. Point Professional provides
 professional clothing for rental to the students at low prices
 
 
-## What mobile operating system are you using
-IOS and Android
+
 
 ## What programming languages are being used?
 HTML, CSS, Javascript, JQruery, SQL
 
 ## Application Environment Details
 
-[grid="rows",format="csv"]
 
-|==================================================
-App,Location,Environment,URL,Status,Version
-'{POINTPROFESSIONAL_APP}','{POINTPROFESSIONAL_LOC}','{POINTPROFESSIONAL_ENV}','{POINTPROFESSIONAL_URL}','{POINTPROFESSIONAL_STATUS}','{POINTPROFESSIONAL_VERSION}'
+
+
 
 
 [#img-diagram]
