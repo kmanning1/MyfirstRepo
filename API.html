@@ -1,13 +1,12 @@
-<!DOCTYPE html>
 <html>
-<head>
-  <script
+
+    <script
   src="getAPIinfo.js">
   </script>
   <script
   src="getAPILists.js">
   </script>
-  
+
   <style>
     body {
       margin: 0
@@ -39,17 +38,44 @@
       background-color: #4CAF50;
       color: white;
     }
+  }
+  ul {
+    list-style-type: none;
+    margin: 0
+    padding: 0;
+    width: 200px;
+
+
+  }
+
+  li {
+    display: block;
+    width: 60px;
+    padding: 8px 16px;
+    text-decoration: none;
+  }
 
 </style>
-</head>
+
 <body>
-  <div class="topnav">
-    <a class="active" href=#home">Home</a>
+  <ul>
+    <li><a href="#home">Home</a></li>
 
-    </div>
+  </ul>
 
-    <div style="padding=left:16px">
+
+  <div style="padding=left:16px"/>
+
       <h2>API</h2>
-      <p>Search News topics</p>
+      <p>Search News Articles</p>
+      <input type="text" name="news">
       <button type="button">Search</button>
     </div>
+<hr>
+
+  <img src="NewYorkTimes.jpg" width="1400" orientation="landscape"/>
+
+
+</body>
+
+</html>
