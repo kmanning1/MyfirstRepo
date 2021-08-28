@@ -1,3 +1,10 @@
+var apikey='BtNFCIFuXoo8O8q0Fgotg0yDqWryKGCC'
+var urlbase='https://api.nytimes.com/svc/search/v2/articlesearch.json?'
+var keyword= 'Value from the textbox that the user inputs in here'
+var query = '?q='
+var apikeyidentity = 'api-key='
+// var url = urlbase + query + keyword + apikeyidentity + apikey;
+
 var url = 'https://api.nytimes.com/svc/search/v2/articlesearch.json?q=technology&api-key=BtNFCIFuXoo8O8q0Fgotg0yDqWryKGCC'
 
 function setup() {
