@@ -1,23 +1,42 @@
 <html>
 <head>
   <title>Classes</title>
-  <style>
 
+
+
+  <style>
+}
+ul {
+  list-style-type: none;
+  margin: 0
+  padding: 0;
+  width: 200px;
+
+
+}
+
+li {
+  display: block;
+  width: 60px;
+  padding: 8px 16px;
+  text-decoration: none;
+}
 body {
     color : purple;
     text-align: center;
+    background-color: #FFE4C4;
   }
     .dropbtn {
       background-color: #4CAF50;
       color: white;
       padding: 20px;
       font-size: 20px;
-      border: none;
+      border: solid;
       cursor: pointer;
     }
 
     .dropdown {
-      postiion: relative;
+      position: relative;
       display: inline-block;
     }
 
@@ -46,25 +65,40 @@ body {
       .dropdown:hover .dropbtn{
         background-color: #8EEBEC;
       }
-
-
-
+      h2 {
+  animation-duration: 2s;
+  animation-name: slidein;
+}
+@keyframes slidein {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+  to {
+    margin-left: 0%;
+    width: 100%;
+  }
+}
+  h4 {
+    text-align: center;
+  }
 
     </style>
 
-
-
-
 <body>
-    <h1>Kimberly Manning</h1>
-    <p> A few examples of my work during my time at Point Park<p>
+<a href="Homepage.html">Home</a>
 
-      <img src="images/database.png" width="400" alt="Database"/>
-      <img src="images/Develpment of Database.png" width="400" alt="Workbench"/>
-      <img src="images/Quantative Analysis example.png" width="400" alt="Math!"/>
+    <h2>What an Adventure it has been!</h2>
+
+    <img src="images/information-technology-6110175.jpg" width="400"/>
+    <p> A couple examples of my work during my time at Point Park</p>
+
+      <img src="images/Leading without formal authority.png" width="400"/>
+      <img src="images/Develpment of Database.png" width="400"/>
 
 
-    <h2>My Classes at Point Park this Semester</h2>
+
+    <h4>My Classes at Point Park this Semester</h4>
       <div class="dropdown">
       <button class="dropbtn">Dropdown</button>
       <div class="dropdown-content">
@@ -73,9 +107,9 @@ body {
       </div>
 
 
+      </div>
 
-
-
-
+      </body>
+      </head>
 
   </html>
